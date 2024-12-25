@@ -1,0 +1,15 @@
+body
+{
+    background-image: url(https://www.oyorooms.com/blog/wp-content/uploads/2019/06/Pangong-Tso-Famous-Tourist-Attractions-of-Ladakh-Hero-Image.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.main
+{
+    color: black;
+    font-size: 5rem ;
+    font-weight: 800;
+    opacity: 0.5;
+}

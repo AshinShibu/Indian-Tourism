@@ -1,0 +1,38 @@
+body
+{
+    background-image: url(https://c8.alamy.com/comp/ET0NDK/aerial-view-of-amritsar-city-in-punjab-india-ET0NDK.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.main
+{
+    color: white;
+    font-size: 5rem ;
+    font-weight: 800;
+    opacity: 0.8;
+}
+.t1
+{
+    font-weight:900 ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    transition: 2s;
+}
+.col:hover
+{
+    scale: 102%;
+    transition: 2s;
+    cursor: pointer;
+    transition: 2s;
+}
+.t1:hover
+{
+    scale: 102%;
+    transition: 2s;
+    cursor: pointer;
+}
+.col
+{
+    transition: 2s;
+}

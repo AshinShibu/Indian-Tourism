@@ -1,0 +1,39 @@
+body
+{
+    background-image: url(https://t3.ftcdn.net/jpg/07/29/31/34/360_F_729313469_RTp7bNgwWIo4NtfLEbQQuU0rERzUB6sq.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 170vh;
+    
+}
+.main
+{
+    color: black;
+    font-size: 5rem ;
+    font-weight: 800;
+    opacity: 0.6;
+}
+.card
+{
+    background-color:transparent;
+    color: aliceblue;
+    font-size: 10px ;
+    font-weight: 900;
+    border: 2px solid black;
+    border-radius: 8px;
+    height: 450px;
+    transition: 2s;
+
+}
+.card-img-top {
+    height: 200px; 
+    object-fit: cover; 
+    transition: 2s;
+  }
+  .card:hover
+{
+    scale: 106%;
+    transition: 2s;
+    cursor: pointer;
+}
+

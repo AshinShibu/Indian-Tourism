@@ -1,0 +1,35 @@
+body
+{
+    background-image: url(https://s7ap1.scene7.com/is/image/incredibleindia/1-samten-yongcha-monastery-mechuka-arunachal-pradesh-attr-hero?qlt=82&ts=1726743121180);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.main
+{
+    color: white;
+    font-size: 5rem ;
+    font-weight: 800;
+    opacity: 0.8;
+}
+.t1
+{
+    font-weight:900 ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.col:hover
+{
+    scale: 102%;
+    transition: 2s;
+    cursor: pointer;
+}
+.t1:hover
+{
+    scale: 102%;
+    transition: 2s;
+    cursor: pointer;
+}
+.col{
+    transition: 2s;
+}

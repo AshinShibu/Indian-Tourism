@@ -1,0 +1,36 @@
+body
+{
+    background-image: url(https://static.toiimg.com/thumb/msid-93736246,width-1070,height-580,resizemode-75/93736246,pt-32,y_pad-40/93736246.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.main
+{
+    color: black;
+    font-size: 5rem ;
+    font-weight: 800;
+    opacity: 0.6;
+}
+.t1
+{
+    font-weight:900 ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    transition: 2s;
+}
+.col:hover
+{
+    scale: 102%;
+    transition: 2s;
+    cursor: pointer;
+}
+.t1:hover
+{
+    scale: 102%;
+    transition: 2s;
+    cursor: pointer;
+}
+.col{
+    transition: 2s;
+}
